@@ -1,0 +1,6 @@
+framework module WBBDKNofityHUD {
+  umbrella header "Pods-WBBDKNofityHUD_Example-WBBDKNofityHUD-umbrella.h"
+
+  export *
+  module * { export * }
+}
